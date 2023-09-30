@@ -1,0 +1,2 @@
+# Data Fortification: Image, Binary, and Text Encryption
+ Spearheaded an extensive Encryption and Decryption Project in C programming, ensuring the secure handling of sensitive data. Implemented encryption techniques for image files, binary data, and text, reducing the risk of data breaches. Successfully implemented both encryption and decryption functionalities, ensuring the secure handling of sensitive data.
